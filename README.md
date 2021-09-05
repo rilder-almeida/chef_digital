@@ -1,13 +1,13 @@
 # Chef Digital
 > Sistema de Gestão de Cardápio
 
+![](https://github.com/rilder-almeida/chef_digital/raw/master/images/capa.png)
+
 Chef Digital é um sistema de gerenciamento de cardápio completo: Gestão das Fichas técnicas e precificação, Controle de Insumos, Análise dos produtos e produção.
 
 Com esta planilha automatizada é possivel realizar a Engenharia de cardápio, que visa relacionar lucratividade dos pratos com o fluxo de vendas, assim identificando os melhores itens a se vender, aqueles que devem ser retirados ou reformulados e os que necessitam de mais divulgação.  Tem sido usado por restaurantes, buffets, confeitaria e cozinhas de produção por mais de 2 anos e é uma das ferramentas principais na realização da Consultoria em gestão para restaurante da empresa Avance.
 
 Desenvolvido usando linguagem DAX e JavaScript
-
-![](https://github.com/rilder-almeida/chef_digital/raw/master/images/capa.png)
 
 ## Instalação
 
@@ -35,11 +35,12 @@ Desenvolvido usando linguagem DAX e JavaScript
 5. Para sair basta clicar no botão de voltar <img src="https://github.com/rilder-almeida/chef_digital/raw/master/images/voltar.png" width="20"/> no canto superior direito. 
 6. Aguarde até que o script tenha terminado completamente sua execução.
 
-##### Em breve mais detalhes.
+> Em breve mais detalhes.
 
 ## Background da planilha
 
 #### Acesse as planilhas ocultas
+
 Obs.: Qualquer alteração pode e deve resultar em mal funcionamento do sistema
 
 1. Pressione ESC para sair do modo tela cheia
@@ -47,7 +48,7 @@ Obs.: Qualquer alteração pode e deve resultar em mal funcionamento do sistema
 
 ## Scripts de Macro
 
-- Esta planilha foi feita quando ainda não conhecia os fundamentos básicos da programação, muito menos sobre Javascript. Desenvolvido usando lógica e muita tentativa e erro, basicamente um "Frankenstein do Stack Overflow". Entretando está em pleno funcionamento (2019 - ), sendo atualmente utilizado por 6 empresas, atingindo perfeitamente sua finalidade.
+> Esta planilha foi feita quando ainda não conhecia os fundamentos básicos da programação, muito menos sobre Javascript. Desenvolvido usando lógica e muita tentativa e erro, basicamente um "Frankenstein do Stack Overflow". Entretando está em pleno funcionamento (2019 - ), sendo atualmente utilizado por 6 empresas, atingindo perfeitamente sua finalidade.
 
 Obs.: Qualquer alteração pode e deve resultar em mal funcionamento do sistema
 
