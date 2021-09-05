@@ -20,7 +20,7 @@ Desenvolvido usando linguagem DAX e JavaScript
 
 #### 3. Autorize a execução dos stripts (macros) da planilha. Apesar de não ter sido verificado pelo Google, estes scripts são responsáveis apenas pela manipulação das paginas/sheets das fichas técnicas.
 
-- Clique na imagem de + e aguarde a solicitação de acesso.
+- Clique na botão <img src="https://github.com/rilder-almeida/chef_digital/raw/master/images/mais.png" width="20"/> e aguarde a solicitação de acesso.
 
 <img src="https://github.com/rilder-almeida/chef_digital/raw/master/images/chef_digital_2.png" width="300"/><img src="https://github.com/rilder-almeida/chef_digital/raw/master/images/chef_digital_4.png" width="300"/><img src="https://github.com/rilder-almeida/chef_digital/raw/master/images/chef_digital_5.png" width="300"/><img src="https://github.com/rilder-almeida/chef_digital/raw/master/images/chef_digital_6.png" width="300"/><img src="https://github.com/rilder-almeida/chef_digital/raw/master/images/chef_digital_7.png" width="300"/><img src="https://github.com/rilder-almeida/chef_digital/raw/master/images/chef_digital_8.png" width="300"/>
 
@@ -29,10 +29,10 @@ Desenvolvido usando linguagem DAX e JavaScript
 
 #### Abrindo uma Ficha Técnica (Receita)
 1. Clique sobre o dropdown list na célula C23
-2. Selecione a ficha técnica desejada (Ex. Massa de Panqueca)
+2. Selecione a ficha técnica desejada (Ex.: Massa de Panqueca)
 3. Clique sobre o botão <img src="https://github.com/rilder-almeida/chef_digital/raw/master/images/abrir.png" width="20"/>
 4. Aguarde até que o script tenha terminado completamente sua execução.
-5. Para sair basta clicar no botão de voltar no canto superior direito.
+5. Para sair basta clicar no botão de voltar <img src="https://github.com/rilder-almeida/chef_digital/raw/master/images/voltar.png" width="20"/> no canto superior direito. 
 6. Aguarde até que o script tenha terminado completamente sua execução.
 
 ##### Em breve mais detalhes.
@@ -57,6 +57,9 @@ Obs.: Qualquer alteração pode e deve resultar em mal funcionamento do sistema
 ## Meta
 
 Rilder Almeida – [LinkedIn](https://www.linkedin.com/in/rilder-almeida)
+
 rilder.almeida@gmail.com
+
 [Outros Projetos](https://github.com/rilder-almeida)
+
 Distributed under the MIT license. See ``LICENSE`` for more information.
