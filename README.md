@@ -28,11 +28,12 @@ Desenvolvido usando linguagem DAX e JavaScript
 ## Exemplo de uso
 
 #### Abrindo uma Ficha Técnica (Receita)
-1. Clique sobre o dropdown list na celula C23
+1. Clique sobre o dropdown list na célula C23
 2. Selecione a ficha técnica desejada (Ex. Massa de Panqueca)
-3. Clique sobre o botão 
-4. Aguarde até a ficha técnica esteja totalmente carregada e o script tenha terminado completamente sua execução
+3. Clique sobre o botão <img src="https://github.com/rilder-almeida/chef_digital/raw/master/images/abrir.png" width="20"/>
+4. Aguarde até que o script tenha terminado completamente sua execução.
 5. Para sair basta clicar no botão de voltar no canto superior direito.
+6. Aguarde até que o script tenha terminado completamente sua execução.
 
 ##### Em breve mais detalhes.
 
