@@ -7,7 +7,7 @@ Chef Digital é um sistema de gerenciamento de cardápio completo: Gestão das F
 
 Com esta planilha automatizada é possivel realizar a Engenharia de cardápio, que visa relacionar lucratividade dos pratos com o fluxo de vendas, assim identificando os melhores itens a se vender, aqueles que devem ser retirados ou reformulados e os que necessitam de mais divulgação.  Tem sido usado por restaurantes, buffets, confeitaria e cozinhas de produção por mais de 2 anos e é uma das ferramentas principais na realização da Consultoria em gestão para restaurante da empresa Avance.
 
-Desenvolvido usando linguagem DAX e JavaScript
+> Desenvolvido usando linguagem DAX e JavaScript
 
 ## Instalação
 
